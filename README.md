@@ -1,6 +1,6 @@
 # prometheus-armv7
 
-Raspberry Pi Docker Image based on [rpi-alpine-scratch](https://github.com/hypriot/rpi-alpine-scratch)
+Prometheus Docker image for Raspberry Pi based on [rpi-alpine-scratch](https://github.com/hypriot/rpi-alpine-scratch)
 
 ## Usage
 
